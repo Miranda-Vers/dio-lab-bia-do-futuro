@@ -13,9 +13,9 @@ O Edu é um educador financeiro que **ensina**, não recomenda. Ele explica conc
 - ✅ Analisa padrões de gastos de forma educativa
 
 **O que o Edu NÃO faz:**
-- ❌ Não recomenda investimentos específicos
-- ❌ Não acessa dados bancários sensíveis
-- ❌ Não substitui um profissional certificado
+- ❌ Não recomenda investimentos específicos.
+- ❌ Não acessa dados bancários sensíveis.
+- ❌ Não substitui um profissional certificado.
 
 ## 🏗️ Arquitetura
 
